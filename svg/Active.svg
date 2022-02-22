@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="60" viewBox="0 0 128 60">
+  <g id="Group_11" data-name="Group 11" transform="translate(-156 -374)">
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="128" height="60" rx="30" transform="translate(156 374)" fill="#121212"/>
+    <g id="Group_8" data-name="Group 8" transform="translate(223 127)">
+      <g id="Group_7" data-name="Group 7" transform="translate(-46 270)">
+        <g id="Ellipse_2" data-name="Ellipse 2" fill="none" stroke="#8567e1" stroke-width="1">
+          <circle cx="3" cy="3" r="3" stroke="none"/>
+          <circle cx="3" cy="3" r="2.5" fill="none"/>
+        </g>
+        <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(16.32)" fill="none" stroke="#8567e1" stroke-width="1">
+          <circle cx="3" cy="3" r="3" stroke="none"/>
+          <circle cx="3" cy="3" r="2.5" fill="none"/>
+        </g>
+        <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(24 8)" fill="none" stroke="#8567e1" stroke-width="1">
+          <circle cx="3" cy="3" r="3" stroke="none"/>
+          <circle cx="3" cy="3" r="2.5" fill="none"/>
+        </g>
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(7.68 8)" fill="none" stroke="#8567e1" stroke-width="1">
+          <circle cx="3" cy="3" r="3" stroke="none"/>
+          <circle cx="3" cy="3" r="2.5" fill="none"/>
+        </g>
+        <line id="Line_5" data-name="Line 5" x2="5.697" y2="5.697" transform="translate(4.272 4.272)" fill="none" stroke="#8567e1" stroke-width="0.5"/>
+        <line id="Line_6" data-name="Line 6" x2="5.697" y2="5.697" transform="translate(20.362 4.272)" fill="none" stroke="#8567e1" stroke-width="0.5"/>
+        <line id="Line_7" data-name="Line 7" x1="5.697" y2="5.697" transform="translate(12.311 4.272)" fill="none" stroke="#8567e1" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
